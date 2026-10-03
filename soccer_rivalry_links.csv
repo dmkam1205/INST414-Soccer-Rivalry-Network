@@ -1,0 +1,23 @@
+source_club,source_url,target_club,target_url
+Arsenal,https://en.wikipedia.org/wiki/Arsenal_F.C.,Tottenham Hotspur,https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.
+Arsenal,https://en.wikipedia.org/wiki/Arsenal_F.C.,Chelsea,https://en.wikipedia.org/wiki/Chelsea_F.C.
+Chelsea,https://en.wikipedia.org/wiki/Chelsea_F.C.,Arsenal,https://en.wikipedia.org/wiki/Arsenal_F.C.
+Chelsea,https://en.wikipedia.org/wiki/Chelsea_F.C.,Tottenham Hotspur,https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.
+Chelsea,https://en.wikipedia.org/wiki/Chelsea_F.C.,Liverpool,https://en.wikipedia.org/wiki/Liverpool_F.C.
+Chelsea,https://en.wikipedia.org/wiki/Chelsea_F.C.,Manchester United,https://en.wikipedia.org/wiki/Manchester_United_F.C.
+Tottenham Hotspur,https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.,Arsenal,https://en.wikipedia.org/wiki/Arsenal_F.C.
+Tottenham Hotspur,https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.,Chelsea,https://en.wikipedia.org/wiki/Chelsea_F.C.
+Manchester United,https://en.wikipedia.org/wiki/Manchester_United_F.C.,Liverpool,https://en.wikipedia.org/wiki/Liverpool_F.C.
+Manchester United,https://en.wikipedia.org/wiki/Manchester_United_F.C.,Manchester City,https://en.wikipedia.org/wiki/Manchester_City_F.C.
+Manchester United,https://en.wikipedia.org/wiki/Manchester_United_F.C.,Arsenal,https://en.wikipedia.org/wiki/Arsenal_F.C.
+Manchester United,https://en.wikipedia.org/wiki/Manchester_United_F.C.,Leeds United,https://en.wikipedia.org/wiki/Leeds_United_F.C.
+Manchester United,https://en.wikipedia.org/wiki/Manchester_United_F.C.,Chelsea,https://en.wikipedia.org/wiki/Chelsea_F.C.
+Manchester City,https://en.wikipedia.org/wiki/Manchester_City_F.C.,Manchester United,https://en.wikipedia.org/wiki/Manchester_United_F.C.
+Manchester City,https://en.wikipedia.org/wiki/Manchester_City_F.C.,Liverpool,https://en.wikipedia.org/wiki/Liverpool_F.C.
+Manchester City,https://en.wikipedia.org/wiki/Manchester_City_F.C.,Tottenham Hotspur,https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.
+Manchester City,https://en.wikipedia.org/wiki/Manchester_City_F.C.,Chelsea,https://en.wikipedia.org/wiki/Chelsea_F.C.
+Manchester City,https://en.wikipedia.org/wiki/Manchester_City_F.C.,Arsenal,https://en.wikipedia.org/wiki/Arsenal_F.C.
+Liverpool,https://en.wikipedia.org/wiki/Liverpool_F.C.,Manchester United,https://en.wikipedia.org/wiki/Manchester_United_F.C.
+Everton,https://en.wikipedia.org/wiki/Everton_F.C.,Liverpool,https://en.wikipedia.org/wiki/Liverpool_F.C.
+Newcastle United,https://en.wikipedia.org/wiki/Newcastle_United_F.C.,Sunderland,https://en.wikipedia.org/wiki/Sunderland_A.F.C.
+Sunderland,https://en.wikipedia.org/wiki/Sunderland_A.F.C.,Newcastle United,https://en.wikipedia.org/wiki/Newcastle_United_F.C.
